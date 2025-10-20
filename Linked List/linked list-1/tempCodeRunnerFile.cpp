@@ -1,0 +1,1 @@
+reverseDisplay(head->next);
